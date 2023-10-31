@@ -1,7 +1,7 @@
 # adjustment_layer for Final Cut Pro
 
 Final Cut Pro用の調整レイヤーです。
-どう使うものかについては、実際に利用しているところをYouTubeでご覧ください。
+どう使うものかについては、[実際に利用しているところをYouTubeで](https://youtu.be/2pv4BWTlRUI)ご覧ください。
 
 ## インストール方法
 
